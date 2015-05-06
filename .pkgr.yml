@@ -7,5 +7,5 @@ targets:
   ubuntu-12.04: true
   ubuntu-14.04: true
   sles-12: true
-dependencies:
+build_dependencies:
   - git
